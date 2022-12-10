@@ -1,0 +1,37 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+}
+.nw {
+  background-color: silver;
+}
+.n {
+  background-color: blue;
+}
+.ne {
+  background-color: yellow;
+}
+.w {
+  background-color: gold;
+}
+.c {
+  background-color: purple;
+}
+.e {
+  background-color: rgb(73, 158, 243);
+}
+.sw {
+  background-color: brown;
+}
+.s {
+  background-color: orange;
+}
+.se {
+  background-color: green;
+}
+
+.highlight {
+  background-color: red;
+}
